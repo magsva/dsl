@@ -1,5 +1,4 @@
 job {
-apapa
     name 'DSL-Tutorial-1-Test'
     scm {
         git('git://github.com/jgritman/aws-sdk-test.git')
